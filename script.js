@@ -20,3 +20,4 @@ document.getElementById('alignRightBtn').addEventListener('click', function(even
   event.preventDefault(); // Prevent form submission
   document.getElementById('myInput').style.textAlign = 'right';
 });
+``
